@@ -1,0 +1,8 @@
+D:\Adatbazis2\TRNA8A_DB2\TRNA8A_DB2\bin\Debug\TRNA8A_DB2.exe.config
+D:\Adatbazis2\TRNA8A_DB2\TRNA8A_DB2\bin\Debug\TRNA8A_DB2.exe
+D:\Adatbazis2\TRNA8A_DB2\TRNA8A_DB2\bin\Debug\TRNA8A_DB2.pdb
+D:\Adatbazis2\TRNA8A_DB2\TRNA8A_DB2\obj\Debug\TRNA8A_DB2.csproj.AssemblyReference.cache
+D:\Adatbazis2\TRNA8A_DB2\TRNA8A_DB2\obj\Debug\TRNA8A_DB2.csproj.SuggestedBindingRedirects.cache
+D:\Adatbazis2\TRNA8A_DB2\TRNA8A_DB2\obj\Debug\TRNA8A_DB2.csproj.CoreCompileInputs.cache
+D:\Adatbazis2\TRNA8A_DB2\TRNA8A_DB2\obj\Debug\TRNA8A_DB2.exe
+D:\Adatbazis2\TRNA8A_DB2\TRNA8A_DB2\obj\Debug\TRNA8A_DB2.pdb
