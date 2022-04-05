@@ -1,0 +1,11 @@
+Személyes adatok:
+	Kovács Nikoletta
+	3433 Nyékládháza Balassi Bálint utca 22
+	06308467367
+
+Megrendelt termékek:
+	Pizza Margareta - 1590 Ft
+	Pizza Hawaii - 2100 Ft
+	Pizza Négysajtos - 2200 Ft
+
+Összesen: 5890 Ft
