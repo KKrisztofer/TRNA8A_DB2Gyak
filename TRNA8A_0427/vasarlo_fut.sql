@@ -1,0 +1,2 @@
+select * from ALL_SCHEDULER_RUNNING_JOBS;
+
